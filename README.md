@@ -1,1 +1,2 @@
-My first readme
+Its owesome to learn how to code.
+Learning step by step
